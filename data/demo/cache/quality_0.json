@@ -1,0 +1,223 @@
+[
+    {
+        "source_sentence": "Individual dose titration at treatment initiation allows adjustment of the dose to the patient's needs.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.17058", 
+        "context": "machine_translation", 
+        "target_sentence": "Individuele titratie bij aanvang van de behandeling kan aanpassing van de dosis aan de behoefte van de patiënt.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "Individual dose titration at treatment initiation allows adjustment of the dose to the patient's needs.", 
+        "grammar_errors": "no information", 
+        "quality_score": "0.34826", 
+        "context": "match_0", 
+        "target_sentence": "Er is derhalve voor bejaarde patiënten geen aanpassing van de dosis nodig.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "Individual dose titration at treatment initiation allows adjustment of the dose to the patient's needs.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "0", 
+            "0", 
+            "0", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.33202", 
+        "context": "match_1", 
+        "target_sentence": "Individuele titratie met beide componenten afzonderlijk wordt aanbevolen, alvorens over te gaan op de vaste doseringscombinatie.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "Individual dose titration at treatment initiation allows adjustment of the dose to the patient's needs.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.28194", 
+        "context": "match_2", 
+        "target_sentence": "Een individuele titratie van de dosering op geleide van de werkzaamheid en verdraagbaarheid wordt aanbevolen.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "Individual dose titration at treatment initiation allows adjustment of the dose to the patient's needs.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "1", 
+            "1", 
+            "1", 
+            "1"
+        ], 
+        "quality_score": "0.32390", 
+        "context": "match_3", 
+        "target_sentence": "Daarom kan in sommige gevallen een aanpassing van de dosering nodig zijn.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "Individual dose titration at treatment initiation allows adjustment of the dose to the patient's needs.", 
+        "grammar_errors": "no information", 
+        "quality_score": "0.40044", 
+        "context": "match_4", 
+        "target_sentence": "Alle formulieren om een behandeling te initiëren moeten de volgende elementen bevatten:", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "Individual dose titration at treatment initiation allows adjustment of the dose to the patient's needs.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.99573", 
+        "context": "match_5", 
+        "target_sentence": "Het behandelingsschema wordt ook aangegeven op de startverpakking.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "Individual dose titration at treatment initiation allows adjustment of the dose to the patient's needs.", 
+        "grammar_errors": [
+            "0", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "1", 
+            "1", 
+            "1", 
+            "1"
+        ], 
+        "quality_score": "0.39455", 
+        "context": "match_6", 
+        "target_sentence": "Gedurende dosistitratie dienen de serumcalciumconcentraties regelmatig en binnen 1 week na start of na dosisaanpassing van Parareg te worden gevolgd.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "Individual dose titration at treatment initiation allows adjustment of the dose to the patient's needs.", 
+        "grammar_errors": [
+            "0", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "1", 
+            "1", 
+            "1", 
+            "1"
+        ], 
+        "quality_score": "0.39455", 
+        "context": "match_7", 
+        "target_sentence": "Gedurende dosistitratie dienen de serumcalciumconcentraties regelmatig en binnen 1 week na start of na dosisaanpassing van Mimpara te worden gevolgd.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "Individual dose titration at treatment initiation allows adjustment of the dose to the patient's needs.", 
+        "grammar_errors": [
+            "0", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.76940", 
+        "context": "match_8", 
+        "target_sentence": "Buitenverpakking – behandelingsstartpakket bevattende 4 dozen van 14 filmomhulde tabletten", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "Individual dose titration at treatment initiation allows adjustment of the dose to the patient's needs.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "2.28603", 
+        "context": "match_9", 
+        "target_sentence": "Startbehandelingsverpakking voor 4 weken met:", 
+        "qe_word": true
+    }
+]

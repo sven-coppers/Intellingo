@@ -1,0 +1,80 @@
+.source {
+    color: #d6d0d4;
+}
+
+.source.corresponding {
+    color: #959599;
+}
+
+.source.highlight {
+    background-color: #f7ffbc;
+}
+
+.source.focus {
+    color: #000000;
+    background-color: #fff33a;
+}
+
+.source.underlined {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.target {
+    color: #cdc7cb;
+    font-style: italic;
+}
+
+.show_grammar_errors .target.grammar_error {
+    border-bottom: 1px solid crimson;
+}
+
+.target.corresponding {
+    color: #959599;
+}
+
+.target.highlight {
+    color: #70bfe2;
+}
+
+.target.focus {
+    background-color: #e7fafc;
+    color: #00adef;
+}
+
+.target.underlined {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.target.selectable:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.replaced {
+    text-decoration: line-through;
+    color: #ebc640;
+}
+
+.target.pretrans {
+    color: #959599;
+    font-weight: bold;
+}
+
+.target.pretrans.highlight {
+    color: #70bfe2;
+}
+
+.target.pretrans.highlight.focus {
+    background-color: #e7fafc;
+    color: #00adef;
+}
+
+.hide_pretrans .target.pretrans {
+    font-weight: normal;
+}
+
+.hide_pretrans .mt_meta {
+    display: none;
+}

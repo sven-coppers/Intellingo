@@ -1,0 +1,287 @@
+[
+    {
+        "source_sentence": "Patients older than 65 years are at increased risk of hypotension.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "0"
+        ], 
+        "quality_score": "0.08380", 
+        "context": "machine_translation", 
+        "target_sentence": "Patiënten ouder dan 65 jaar hebben een verhoogd risico op hypotensie.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "Patients older than 65 years are at increased risk of hypotension.", 
+        "grammar_errors": "no information", 
+        "quality_score": "0.85672", 
+        "context": "match_0", 
+        "target_sentence": "Neoplasmata, benigne, maligne en niet-gespecificeerd (inclusief cysten en poliepen) Patiënten die immunosuppressieve therapie ondergaan lopen een verhoogd risico op maligniteiten.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "Patients older than 65 years are at increased risk of hypotension.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.41264", 
+        "context": "match_1", 
+        "target_sentence": "Enkele gevallen van coagulopathische aandoeningen zijn gerapporteerd, zoals verhoogde D-dimeren en consumptieve coagulopathie.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "Patients older than 65 years are at increased risk of hypotension.", 
+        "grammar_errors": "no information", 
+        "quality_score": "0.35078", 
+        "context": "match_2", 
+        "target_sentence": "Oudere patiënten Oudere patiënten hebben een verhoogd bloedingsrisico.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "Patients older than 65 years are at increased risk of hypotension.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.38179", 
+        "context": "match_3", 
+        "target_sentence": "Behandeling van osteoporose bij mannen met verhoogd fractuurrisico.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "Patients older than 65 years are at increased risk of hypotension.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.42846", 
+        "context": "match_4", 
+        "target_sentence": "14 • Patiënten met een bijzonder risico op hypotensie", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "Patients older than 65 years are at increased risk of hypotension.", 
+        "grammar_errors": [
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.28710", 
+        "context": "match_5", 
+        "target_sentence": "ouder bent dan 65 jaar of als u problemen heeft met uw nieren.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "Patients older than 65 years are at increased risk of hypotension.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.20697", 
+        "context": "match_6", 
+        "target_sentence": "Vrouwlijk geslacht en hogere CD4 waarden verhogen het risico op leveraandoeningen.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "Patients older than 65 years are at increased risk of hypotension.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.63732", 
+        "context": "match_7", 
+        "target_sentence": "Risico op bloedingen Verschillende subgroepen van patiënten, zoals hieronder beschreven, hebben een verhoogd risico op bloedingen.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "Patients older than 65 years are at increased risk of hypotension.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "1.11153", 
+        "context": "match_8", 
+        "target_sentence": "trauma patiënten met een verhoogd bloedingsrisico", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "Patients older than 65 years are at increased risk of hypotension.", 
+        "grammar_errors": [
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.28710", 
+        "context": "match_9", 
+        "target_sentence": "ouder bent dan 65 jaar of als u problemen heeft met uw nieren.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "Patients older than 65 years are at increased risk of hypotension.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.22410", 
+        "context": "match_10", 
+        "target_sentence": "Het gebruik van TYSABRI is in verband gebracht met een verhoogd risico op PML.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "Patients older than 65 years are at increased risk of hypotension.", 
+        "grammar_errors": [
+            "0", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.42452", 
+        "context": "match_11", 
+        "target_sentence": "antiretrovirale therapie (HAART) krijgen, kunnen een verhoogd risico lopen om lactaatacidose te ontwikkelen.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "Patients older than 65 years are at increased risk of hypotension.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.58215", 
+        "context": "match_12", 
+        "target_sentence": "Een zeer jonge leeftijd wordt geassocieerd met een verhoogd risico op de ontwikkeling van neurotrope ziekten (YEL-AND).", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "Patients older than 65 years are at increased risk of hypotension.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.27772", 
+        "context": "match_13", 
+        "target_sentence": "Daardoor is er een verhoogd risico op huidkanker.", 
+        "qe_word": true
+    }
+]

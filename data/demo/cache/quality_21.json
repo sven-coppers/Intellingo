@@ -1,0 +1,152 @@
+[
+    {
+        "source_sentence": "There are no data from the use of riociguat in pregnant women.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.00859", 
+        "context": "machine_translation", 
+        "target_sentence": "Er zijn geen gegevens over het gebruik van riociguat bij zwangere vrouwen.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "There are no data from the use of riociguat in pregnant women.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.08117", 
+        "context": "match_0", 
+        "target_sentence": "Er zijn geen gegevens over het gebruik van sildenafil door zwangere vrouwen.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "There are no data from the use of riociguat in pregnant women.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.05849", 
+        "context": "match_1", 
+        "target_sentence": "Er zijn geen gegevens over het gebruik van dexrazoxan bij zwangere vrouwen.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "There are no data from the use of riociguat in pregnant women.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.06216", 
+        "context": "match_2", 
+        "target_sentence": "Er zijn geen gegevens beschikbaar over het gebruik van temoporfine bij zwangere vrouwen.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "There are no data from the use of riociguat in pregnant women.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.00859", 
+        "context": "match_3", 
+        "target_sentence": "Er zijn geen gegevens over het gebruik van Kaletra bij zwangere vrouwen.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "There are no data from the use of riociguat in pregnant women.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.04006", 
+        "context": "match_4", 
+        "target_sentence": "Er zijn voor MIRCERA geen gegevens beschikbaar over gebruik tijdens de zwangerschap.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "There are no data from the use of riociguat in pregnant women.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.12628", 
+        "context": "match_5", 
+        "target_sentence": "Er zijn geen gegevens met betrekking tot het gebruik van micafungine bij zwangere vrouwen.", 
+        "qe_word": true
+    }
+]

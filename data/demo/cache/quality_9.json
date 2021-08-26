@@ -1,0 +1,230 @@
+[
+    {
+        "source_sentence": "A dose decrease may be required in patients who stop smoking.", 
+        "grammar_errors": "no information", 
+        "quality_score": "0.16605", 
+        "context": "machine_translation", 
+        "target_sentence": "Een verlaging van de dosering kan noodzakelijk voor patiënten die stoppen met roken.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "A dose decrease may be required in patients who stop smoking.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.16948", 
+        "context": "match_0", 
+        "target_sentence": "Er is geen dosisaanpassing noodzakelijk voor patiënten met nierinsufficiëntie.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "A dose decrease may be required in patients who stop smoking.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.18015", 
+        "context": "match_1", 
+        "target_sentence": "Bij patiënten met nierproblemen moet de dosering worden verlaagd.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "A dose decrease may be required in patients who stop smoking.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.15620", 
+        "context": "match_2", 
+        "target_sentence": "Er is geen aanpassing van de dosering noodzakelijk bij patiënten met milde nierfunctiestoornissen.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "A dose decrease may be required in patients who stop smoking.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "1", 
+            "1", 
+            "1"
+        ], 
+        "quality_score": "0.27860", 
+        "context": "match_3", 
+        "target_sentence": "De responder rates waren het hoogst bij patiënten bij wie de NRTIs werden geswitcht.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "A dose decrease may be required in patients who stop smoking.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.47316", 
+        "context": "match_4", 
+        "target_sentence": "Voorzichtigheid is tevens geboden wanneer het middel wordt gebruikt bij patiënten met een matige tot ernstige nierfunctiestoornis.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "A dose decrease may be required in patients who stop smoking.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.18085", 
+        "context": "match_5", 
+        "target_sentence": "Als er nog klontjes aanwezig zijn, dient u nogmaals te tikken.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "A dose decrease may be required in patients who stop smoking.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "1.58194", 
+        "context": "match_6", 
+        "target_sentence": "Het geneesmiddel mag niet n", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "A dose decrease may be required in patients who stop smoking.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.56144", 
+        "context": "match_7", 
+        "target_sentence": "Actrarapid wordt gebruikt bij patiënten met diabetes.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "A dose decrease may be required in patients who stop smoking.", 
+        "grammar_errors": [
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "1"
+        ], 
+        "quality_score": "0.85526", 
+        "context": "match_8", 
+        "target_sentence": "Aanvullend operatief ingrijpen kan noodzakelijk zijn.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "A dose decrease may be required in patients who stop smoking.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.31183", 
+        "context": "match_9", 
+        "target_sentence": "Er is geen aanpassing van de dosering noodzakelijk bij patiënten van 65 jaar en ouder.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "A dose decrease may be required in patients who stop smoking.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.30370", 
+        "context": "match_10", 
+        "target_sentence": "Er is geen aanpassing van dosering nodig voor patiënten die 65 jaar of ouder zijn.", 
+        "qe_word": true
+    }
+]

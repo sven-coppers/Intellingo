@@ -1,0 +1,146 @@
+[
+    {
+        "source_sentence": "See section 4.8 for how to report adverse reactions.", 
+        "grammar_errors": [
+            "0", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "1"
+        ], 
+        "quality_score": "0.45133", 
+        "context": "machine_translation", 
+        "target_sentence": "Zie rubriek 4.8 voor hoe te melden bijwerkingen zullen gaan voordoen.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "See section 4.8 for how to report adverse reactions.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "1", 
+            "1", 
+            "1", 
+            "1"
+        ], 
+        "quality_score": "0.51565", 
+        "context": "match_0", 
+        "target_sentence": "Bij de meerderheid van de patiënten kan worden verwacht dat zich bijwerkingen zullen gaan voordoen.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "See section 4.8 for how to report adverse reactions.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.23678", 
+        "context": "match_1", 
+        "target_sentence": "Ook psychomotorische rusteloosheid werd toegevoegd aan de bijwerkingentabel.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "See section 4.8 for how to report adverse reactions.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.14612", 
+        "context": "match_2", 
+        "target_sentence": "in verband met het verhoogde risico van nadelige reacties.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "See section 4.8 for how to report adverse reactions.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "1.43443", 
+        "context": "match_3", 
+        "target_sentence": "Dosisaanpassing in geval van bijwerkingen", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "See section 4.8 for how to report adverse reactions.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "1"
+        ], 
+        "quality_score": "0.38951", 
+        "context": "match_4", 
+        "target_sentence": "Zoals elk geneesmiddel kan Masivet bijwerkingen veroorzaken.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "See section 4.8 for how to report adverse reactions.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.38558", 
+        "context": "match_5", 
+        "target_sentence": "Klinisch toezicht wordt aanbevolen voor deze bijwerkingen.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "See section 4.8 for how to report adverse reactions.", 
+        "grammar_errors": [
+            "0", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.19902", 
+        "context": "match_6", 
+        "target_sentence": "De meeste van deze ECG-afwijkingen gingen niet gepaard met bijwerkingen.", 
+        "qe_word": true
+    }
+]

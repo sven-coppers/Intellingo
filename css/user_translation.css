@@ -1,0 +1,20 @@
+.user_translation {
+    min-height: 50px;
+    width: 100%;
+    border: none;
+    font-family: Arial;
+    outline: none;
+    background: transparent;
+    white-space: pre-wrap;
+}
+
+.feed_forward {
+    color: #a6a6a6;
+    position: relative;
+    display: inline-block;
+}
+
+.negative_space {
+    margin-left: -4px;
+    white-space: nowrap;
+}

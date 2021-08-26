@@ -1,0 +1,199 @@
+[
+    {
+        "source_sentence": "Therefore use of Adempas is not recommended in these patients (see section 4.4).", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.24839", 
+        "context": "machine_translation", 
+        "target_sentence": "Derhalve wordt het gebruik van Adempas wordt niet aanbevolen bij deze patiënten (zie rubriek 4.4).", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "Therefore use of Adempas is not recommended in these patients (see section 4.4).", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "0"
+        ], 
+        "quality_score": "0.49156", 
+        "context": "match_0", 
+        "target_sentence": "Bij deze patiënten wordt het opnieuw gebruiken van ziconotide niet aanbevolen.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "Therefore use of Adempas is not recommended in these patients (see section 4.4).", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.31134", 
+        "context": "match_1", 
+        "target_sentence": "Daarom wordt het gebruik van sildenafil niet aanbevolen bij deze patiënten.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "Therefore use of Adempas is not recommended in these patients (see section 4.4).", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.83450", 
+        "context": "match_2", 
+        "target_sentence": "Daarom wordt rivaroxaban niet aanbevolen bij deze patiënten.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "Therefore use of Adempas is not recommended in these patients (see section 4.4).", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.22122", 
+        "context": "match_3", 
+        "target_sentence": "Daarom wordt het gebruik van Xiliarx bij deze patiënten niet aanbevolen.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "Therefore use of Adempas is not recommended in these patients (see section 4.4).", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.53017", 
+        "context": "match_4", 
+        "target_sentence": "Het gebruik bij deze patiënten wordt daarom niet aanbevolen.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "Therefore use of Adempas is not recommended in these patients (see section 4.4).", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.22122", 
+        "context": "match_5", 
+        "target_sentence": "Daarom wordt het gebruik van Galvus bij deze patiënten niet aanbevolen.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "Therefore use of Adempas is not recommended in these patients (see section 4.4).", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.22122", 
+        "context": "match_6", 
+        "target_sentence": "Daarom wordt het gebruik van Jalra bij deze patiënten niet aanbevolen.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "Therefore use of Adempas is not recommended in these patients (see section 4.4).", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.62303", 
+        "context": "match_7", 
+        "target_sentence": "Elke verpakking bevat 1 fles (60 tabletten).", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "Therefore use of Adempas is not recommended in these patients (see section 4.4).", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.32525", 
+        "context": "match_8", 
+        "target_sentence": "Het is onbekend of perindopril wordt uitgescheiden in de moedermelk bij de mens.", 
+        "qe_word": true
+    }
+]

@@ -1,0 +1,236 @@
+[
+    {
+        "source_sentence": "Healthcare professionals are asked to report any suspected adverse reactions.", 
+        "grammar_errors": [
+            "0", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "1"
+        ], 
+        "quality_score": "0.31676", 
+        "context": "machine_translation", 
+        "target_sentence": "Healthcare in de gezondheidszorg verzocht om een vermoedelijke bijwerkingen.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "Healthcare professionals are asked to report any suspected adverse reactions.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.45521", 
+        "context": "match_0", 
+        "target_sentence": "Ook psychomotorische rusteloosheid werd toegevoegd aan de bijwerkingentabel.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "Healthcare professionals are asked to report any suspected adverse reactions.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.31465", 
+        "context": "match_1", 
+        "target_sentence": "in verband met het verhoogde risico van nadelige reacties.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "Healthcare professionals are asked to report any suspected adverse reactions.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.27325", 
+        "context": "match_2", 
+        "target_sentence": "Er kan een toename optreden van met levodopa samenhangende bijwerkingen.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "Healthcare professionals are asked to report any suspected adverse reactions.", 
+        "grammar_errors": "no information", 
+        "quality_score": "0.49471", 
+        "context": "match_3", 
+        "target_sentence": "Levertoxiciteit en myopathieën zijn de klinisch belangrijkste bijwerkingen.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "Healthcare professionals are asked to report any suspected adverse reactions.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "1"
+        ], 
+        "quality_score": "0.70595", 
+        "context": "match_4", 
+        "target_sentence": "Zoals elk geneesmiddel kan Masivet bijwerkingen veroorzaken.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "Healthcare professionals are asked to report any suspected adverse reactions.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.65391", 
+        "context": "match_5", 
+        "target_sentence": "Klinisch toezicht wordt aanbevolen voor deze bijwerkingen.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "Healthcare professionals are asked to report any suspected adverse reactions.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.51758", 
+        "context": "match_6", 
+        "target_sentence": "Voor de bepaling van de frequentie van bijwerkingen werd gebruik gemaakt van gegevens uit grote klinische studies.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "Healthcare professionals are asked to report any suspected adverse reactions.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.50929", 
+        "context": "match_7", 
+        "target_sentence": "In zeldzame gevallen is er een overdosering gerapporteerd; ze gingen niet met ernstige bijwerkingen gepaard.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "Healthcare professionals are asked to report any suspected adverse reactions.", 
+        "grammar_errors": [
+            "0", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.23350", 
+        "context": "match_8", 
+        "target_sentence": "Verpleegkundigen zullen u in de gaten houden gedurende de infusie met ORENCIA.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "Healthcare professionals are asked to report any suspected adverse reactions.", 
+        "grammar_errors": "no information", 
+        "quality_score": "0.47596", 
+        "context": "match_9", 
+        "target_sentence": "Het is te verwachten dat bij de meeste patiënten die thalidomide gebruiken, bijwerkingen zullen optreden.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "Healthcare professionals are asked to report any suspected adverse reactions.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "1", 
+            "1", 
+            "1", 
+            "1"
+        ], 
+        "quality_score": "0.44542", 
+        "context": "match_10", 
+        "target_sentence": "Bij de meerderheid van de patiënten kan worden verwacht dat zich bijwerkingen zullen gaan voordoen.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "Healthcare professionals are asked to report any suspected adverse reactions.", 
+        "grammar_errors": [
+            "0", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.27275", 
+        "context": "match_11", 
+        "target_sentence": "De meeste van deze ECG-afwijkingen gingen niet gepaard met bijwerkingen.", 
+        "qe_word": true
+    }
+]

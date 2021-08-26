@@ -1,0 +1,258 @@
+[
+    {
+        "source_sentence": "Non-clinical data show an adverse effect on growing bone (see section 5.3).", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.22955", 
+        "context": "machine_translation", 
+        "target_sentence": "Niet-klinische gegevens tonen een effect op de groeiende bot (zie rubriek 5.3).", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "Non-clinical data show an adverse effect on growing bone (see section 5.3).", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.53506", 
+        "context": "match_0", 
+        "target_sentence": "Toediening van adalimumab tijdens de zwangerschap wordt niet aanbevolen.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "Non-clinical data show an adverse effect on growing bone (see section 5.3).", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.26698", 
+        "context": "match_1", 
+        "target_sentence": "Diergegevens zijn niet eenduidig, maar wijzen op mogelijke schadelijke effecten op de", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "Non-clinical data show an adverse effect on growing bone (see section 5.3).", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "1", 
+            "1", 
+            "1", 
+            "1"
+        ], 
+        "quality_score": "0.21603", 
+        "context": "match_2", 
+        "target_sentence": "Dierproeven tonen aan dat er geen reproductieve toxiciteit optreedt (zie rubriek", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "Non-clinical data show an adverse effect on growing bone (see section 5.3).", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.51677", 
+        "context": "match_3", 
+        "target_sentence": "Uit experimenteel onderzoek bij dieren is reproductie toxiciteit aangetoond.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "Non-clinical data show an adverse effect on growing bone (see section 5.3).", 
+        "grammar_errors": [
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.26124", 
+        "context": "match_4", 
+        "target_sentence": "Zwangerschap: dieronderzoeken zijn onvoldoende met betrekking tot de invloed op de zwangerschap t ie", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "Non-clinical data show an adverse effect on growing bone (see section 5.3).", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.24988", 
+        "context": "match_5", 
+        "target_sentence": "Alendronaat, toegediend aan drachtige ratten, veroorzaakte dystokie die samenhing met hypocalciëmie (zie", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "Non-clinical data show an adverse effect on growing bone (see section 5.3).", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.39086", 
+        "context": "match_6", 
+        "target_sentence": "Niet-klinische gegevens over de algemene toxiciteit van mitotaan zijn beperkt.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "Non-clinical data show an adverse effect on growing bone (see section 5.3).", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "0"
+        ], 
+        "quality_score": "0.17332", 
+        "context": "match_7", 
+        "target_sentence": "Gebaseerd op algemene veiligheidsstudies onthullen niet-klinische gegevens geen speciaal risico voor mensen.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "Non-clinical data show an adverse effect on growing bone (see section 5.3).", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.15028", 
+        "context": "match_8", 
+        "target_sentence": "Niet-klinische gegevens tonen aan dat de oplosbaarheid van dasatinib afhankelijk is van de pH.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "Non-clinical data show an adverse effect on growing bone (see section 5.3).", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.46585", 
+        "context": "match_9", 
+        "target_sentence": "De onderzoeksgegevens zijn gecorrigeerd voor de leeftijd van de studiepopulatie, zodat die vergeleken kan worden met de gebruikerspopulatie van Implanon.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "Non-clinical data show an adverse effect on growing bone (see section 5.3).", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.30175", 
+        "context": "match_10", 
+        "target_sentence": "Uit niet-klinische gegevens, op basis van dierstudies, bleek geen bijzonder gevaar voor mensen.", 
+        "qe_word": true
+    }
+]

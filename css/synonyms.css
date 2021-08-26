@@ -1,0 +1,222 @@
+.recommendations {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.synonyms {
+    width: 350px;
+    float: left;
+    border-right: 1px solid #ceced1;
+    margin-right: 10px;
+    height: 185px;
+    overflow-x: hidden;
+    overflow-y: auto;
+    position: relative;
+}
+
+.synonyms.focus {
+   /* background-color: #89b75c; */
+}
+
+.synonyms.focus .alternative_token {
+    color: #afafb2;
+}
+
+.synonyms.focus .alternative_token.selected {
+    color: #5b5b5b;
+}
+
+.synonyms:hover {
+    overflow-y: auto;
+}
+
+.synonyms:hover span.tb_score,
+.synonyms:hover span.tb_score_extended {
+    margin-right: 20px;
+}
+
+.synonym {
+    width: 350px;
+    padding-top: 3px;
+    padding-bottom: 4px;
+    color: #ceced1;
+}
+
+.synonym.selected {
+    border-right: 1px solid #ffffff;
+    cursor: pointer;
+}
+
+span.word_content {
+    display: inline-block;
+    max-width: 230px;
+    overflow: hidden;
+    white-space: nowrap;
+    vertical-align: bottom;
+}
+
+span.word_content .alternative_token.selected {
+    text-decoration: underline;
+    color: #959599;
+}
+
+.synonym.selected span.word_occurences {
+    display: none;
+}
+
+.synonym.selected span.word_occurences_extended {
+    display: inline-block;
+}
+
+span.word_source {
+    display: inline-block;
+    border: 1px solid #ceced1;
+    color: #ceced1;
+    font-size: 14px;
+    font-style: normal;
+    margin-right: 5px;
+    width: 27px;
+    text-align: center;
+}
+
+span.synonym_tm {
+    float: right;
+    margin-left: 15px;
+}
+
+span.synonym_mt {
+    float: right;
+}
+
+span.tb_score {
+    color: #ceced1;
+    float: right;
+    width: 41px;
+    text-align: right;
+    margin-left: 10px;
+    margin-right: 20px;
+}
+
+span.tb_score_extended {
+    color: #ceced1;
+    float: right;
+    width: 41px;
+    text-align: right;
+    margin-left: 10px;
+    margin-right: 20px;
+    display: none;
+}
+
+span.word_occurences {
+    float: right;
+    display: none;
+}
+
+span.word_occurences_extended {
+    float: right;
+    font-style: normal;
+    display: inline-block;
+    margin-left: 15px;
+}
+
+.matches {
+    height: 185px;
+    overflow-y: auto;
+}
+
+.matches:hover {
+    overflow-y: auto;
+}
+
+.match {
+    border-bottom: 1px solid #ceced1;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    line-height: 140%;
+    display: table;
+    width: 100%;
+}
+
+.match:first-child {
+    padding-top: 0px;
+}
+
+.match:last-child {
+    border: none;
+    padding-bottom: 0px;
+}
+
+.matches p:last-child {
+    padding-bottom: 0px;
+}
+
+.example_source {
+    color: #b1b1b4;
+    display: table-row;
+}
+
+.example_destination {
+    display: table-row;
+    font-style: italic;
+    color: #848587;
+}
+
+.example_source_content {
+    display: table-cell;
+    padding-bottom: 5px;
+}
+
+.example_source_characteristics {
+    text-align: right;
+    vertical-align: middle;
+    display: table-cell;
+    width: 145px;
+    padding-right: 10px;
+}
+
+.example_destination_content {
+    display: table-cell;
+}
+
+.example_destination_actions {
+    text-align: right;
+    display: table-cell;
+    vertical-align: middle;
+    padding-right: 9px;
+}
+
+p.no_synonyms {
+    font-style: italic;
+    color: #ceced1;
+    width: 350px;
+}
+
+img.tm_origin {
+    height: 14px;
+}
+
+p.synonym.selected span.word_content {
+    text-decoration: underline;
+    color: #848587;
+}
+
+.example_destination_actions img {
+    height: 16px;
+    display: none;
+}
+
+/* Not needed yet */
+.match:hover .use_match
+/*.match:hover .edit_match */ {
+    display: inline-block;
+    cursor: pointer;
+}
+
+.alternative_token:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.hide_synonym_metrics .synonym_metrics {
+    display: none;
+}

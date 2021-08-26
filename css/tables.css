@@ -1,0 +1,74 @@
+table {
+    width: 100%;
+    font-size: 15px;
+}
+
+th.table_header {
+    text-align: left;
+    font-weight: bold;
+    padding-bottom: 8px;
+    color: #666666;
+    vertical-align: top;
+}
+
+th.table_header p {
+    vertical-align: text-bottom;
+    display: inline;
+
+}
+
+td {
+    vertical-align: middle;
+}
+
+td.numerator_column {
+    text-align: right;
+    padding-right: 7px;
+}
+
+td.denominator_column {
+    text-align: left;
+    color: #bcbdc0;
+ }
+
+td.percent_column {
+    text-align: right;
+    width: 40%;
+}
+
+td.user_column {
+}
+
+tr.summary_row {
+    font-weight: bold;
+    padding-top: 50px;
+    border-top: 1px dashed #bcbdc0;
+}
+
+tr.summary_row td {
+    padding-top: 5px;
+}
+
+tr.summary_row td.numerator_column, tr.summary_row td.percent_column  {
+    color: #666666;
+}
+
+tr.user_row {
+    cursor: pointer;
+}
+
+tr.user_row.user_selected .grey_icon{
+    display: none;
+}
+
+tr.user_row .colored_icon{
+    display: none;
+}
+
+tr.user_row.user_selected .colored_icon{
+    display: inline;
+}
+
+tr.user_row:not(.user_selected) {
+    color: #bcbdc0;
+}

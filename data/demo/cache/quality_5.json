@@ -1,0 +1,237 @@
+[
+    {
+        "source_sentence": "A careful monitoring of patients taking anticoagulants according to common medical practice is recommended.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "0"
+        ], 
+        "quality_score": "0.32265", 
+        "context": "machine_translation", 
+        "target_sentence": "Een zorgvuldige bewaking van de patiënten die volgens normaal medisch gebruik anticoagulantia gebruiken wordt aanbevolen.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "A careful monitoring of patients taking anticoagulants according to common medical practice is recommended.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "0"
+        ], 
+        "quality_score": "0.32265", 
+        "context": "match_0", 
+        "target_sentence": "Een zorgvuldige bewaking van de patiënten die volgens normaal medisch gebruik anticoagulantia gebruiken wordt aanbevolen.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "A careful monitoring of patients taking anticoagulants according to common medical practice is recommended.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "1"
+        ], 
+        "quality_score": "0.64053", 
+        "context": "match_1", 
+        "target_sentence": "Het wordt aanbevolen patiënten met neuropathieverschijnselen zorgvuldig te controleren.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "A careful monitoring of patients taking anticoagulants according to common medical practice is recommended.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "1.24457", 
+        "context": "match_2", 
+        "target_sentence": "Toch wordt bewaking van de creatinekinasespiegel aanbevolen.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "A careful monitoring of patients taking anticoagulants according to common medical practice is recommended.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.44968", 
+        "context": "match_3", 
+        "target_sentence": "Periodieke kwantitatieve controle op eiwitexcretie via de urine is aanbevolen.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "A careful monitoring of patients taking anticoagulants according to common medical practice is recommended.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "0"
+        ], 
+        "quality_score": "0.37630", 
+        "context": "match_4", 
+        "target_sentence": "Verhoging van serumcholesterol moet volgens de bestaande medische praktijk worden behandeld.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "A careful monitoring of patients taking anticoagulants according to common medical practice is recommended.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "0"
+        ], 
+        "quality_score": "0.39171", 
+        "context": "match_5", 
+        "target_sentence": "Een verlaagde hemoglobineconcentratie moet volgens de bestaande medische praktijk worden behandeld.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "A careful monitoring of patients taking anticoagulants according to common medical practice is recommended.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "1"
+        ], 
+        "quality_score": "0.49180", 
+        "context": "match_6", 
+        "target_sentence": "Maandelijkse controles van de ALT en de AST worden aanbevolen.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "A careful monitoring of patients taking anticoagulants according to common medical practice is recommended.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "1", 
+            "1", 
+            "1", 
+            "1"
+        ], 
+        "quality_score": "0.44884", 
+        "context": "match_7", 
+        "target_sentence": "Derhalve wordt aanbevolen om de plasmaconcentratie van kinidine te bewaken.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "A careful monitoring of patients taking anticoagulants according to common medical practice is recommended.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.66974", 
+        "context": "match_8", 
+        "target_sentence": "De infusie moet gebeuren volgens de standaard geneeskundige praktijk.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "A careful monitoring of patients taking anticoagulants according to common medical practice is recommended.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.34050", 
+        "context": "match_9", 
+        "target_sentence": "Regelmatige controle van het aantal trombocyten en het hematocriet wordt aanbevolen.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "A careful monitoring of patients taking anticoagulants according to common medical practice is recommended.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.63097", 
+        "context": "match_10", 
+        "target_sentence": "Bij risicopatiënten wordt adequate controle van het serumkalium aanbevolen.", 
+        "qe_word": true
+    }
+]

@@ -1,0 +1,67 @@
+label {
+    display: block;
+    vertical-align: middle;
+    font-size: 14px;
+}
+
+.login_container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    margin-top: 200px;
+}
+
+.login_container h1,
+.landing_container h1 {
+    font-weight: bold;
+    font-size: 30px;
+    margin-bottom: 5px;
+    color: #707172;
+}
+
+.login_form {
+    border: 2px solid #707172;
+    background-color: #faf9f5;
+    padding: 15px;
+    margin-bottom: -2px;
+}
+
+.login_form label {
+    width: 100px;
+    text-align: right;
+    margin-right: 10px;
+    display: inline-block;
+}
+
+.login_form input {
+    margin-bottom: 15px;
+    display: inline-block;
+    padding: 2px;
+}
+
+.login_form input:last-child {
+    margin-bottom: 0px;
+}
+
+input[type=submit] {
+    margin-right: 8px;
+}
+
+.landing {
+    border: 2px solid #707172;
+    background-color: #faf9f5;
+    padding: 15px;
+    margin-bottom: -2px;
+}
+
+.landing_container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 900px;
+    margin-top: 150px;
+}
+
+.landing_container .briefing {
+    line-height: 140%;
+    font-style: normal;
+}

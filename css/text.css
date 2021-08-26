@@ -1,0 +1,77 @@
+body {
+    font-family: Arial;
+}
+
+.user0 {
+    color: #6a9d89;
+}
+
+.user1 {
+    color: #5276ba;
+}
+
+.user2 {
+    color: #9258a4;
+}
+
+.user3 {
+    color: #b0ac64;
+}
+
+.user4 {
+    color: #a16558;
+}
+
+h3 {
+    text-align: left;
+    font-weight: bold;
+    padding-bottom: 8px;
+    color: #666666;
+}
+
+textarea {
+    font-size: 16px;
+    line-height: 150%;
+}
+
+.briefing {
+    margin-bottom: 12px;
+    color: #58585a;
+    font-style: italic;
+}
+
+.briefing:last-child {
+    margin-bottom: 0px;
+}
+
+.finished {
+    margin-top: 20px;
+    font-style: italic;
+    margin-left: auto;
+    margin-right: auto;
+    display: inline-block;
+}
+
+.start_test {
+    background-color: #97c664;
+    color: #ffffff;
+    margin-top: 10px;
+    padding: 15px;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.start_test:hover {
+    background-color: #89b75c;
+}
+
+.emph {
+    color: #799c56;
+    font-weight: bold;
+}
+
+.note {
+    font-style: italic;
+    color: blue;
+    line-height: 140%;
+}

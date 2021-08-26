@@ -1,0 +1,79 @@
+div#config_panel {
+    position: absolute;
+    z-index: 1;
+    background: white;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    top: 41px;
+    overflow-y: scroll;
+    background-color: #ffffff;
+}
+
+div#config_panel_content {
+    padding-left: 50px;
+    padding-right: 50px;
+    bottom: 0px;
+    background-color: #ffffff;
+}
+
+div.config_group {
+    width: 550px;
+    display: inline-block;
+    vertical-align: top;
+    margin-bottom: 50px;
+}
+
+div#config_panel h1 {
+    width: 100%;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 50px;
+}
+
+div#config_panel h2 {
+    font-size: 24px;
+    font-weight: bold;
+    color: #555555;
+    margin-top: 45px;
+}
+
+.config_item {
+    padding-top: 15px;
+    padding-left: 15px;
+}
+
+.config_item.indent {
+    padding-left: 45px;
+}
+
+.config_checkbox {
+    display: inline-block;
+    margin-right: 5px;
+}
+
+.config_label {
+    display: inline-block;
+    vertical-align: text-top;
+    height: 100%;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+img.workflow {
+    height: 200px;
+    margin-top: 25px;
+    margin-left: 40px;
+}
+
+img.workflow.hidden {
+    display: none;
+}
+
+img#close_settings {
+    position: absolute;
+    right: 40px;
+    top: 40px;
+    width: 40px;
+    cursor: pointer;
+}

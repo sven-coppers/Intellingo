@@ -1,0 +1,227 @@
+[
+    {
+        "source_sentence": "The recommended starting dose is 1 mg three times daily for 2 weeks.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.15463", 
+        "context": "machine_translation", 
+        "target_sentence": "De aanbevolen aanvangsdosis is 1 mg driemaal daags gedurende 2 weken.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "The recommended starting dose is 1 mg three times daily for 2 weeks.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.11873", 
+        "context": "match_0", 
+        "target_sentence": "De aanbevolen dosering is 30 mg één keer per dag gedurende 2 weken.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "The recommended starting dose is 1 mg three times daily for 2 weeks.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.27713", 
+        "context": "match_1", 
+        "target_sentence": "Aanbevolen wordt te beginnen met een dosis van 60 mg driemaal daags voor de maaltijd.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "The recommended starting dose is 1 mg three times daily for 2 weeks.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.21443", 
+        "context": "match_2", 
+        "target_sentence": "De aanbevolen startdosis is 4 mg eenmaal per dag 's morgens.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "The recommended starting dose is 1 mg three times daily for 2 weeks.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.17794", 
+        "context": "match_3", 
+        "target_sentence": "De aanbevolen startdosis is 25 mg Risperdal Consta om de twee weken.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "The recommended starting dose is 1 mg three times daily for 2 weeks.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.16205", 
+        "context": "match_4", 
+        "target_sentence": "De aanbevolen startdosering is 25 mg RISPERDAL CONSTA per twee weken.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "The recommended starting dose is 1 mg three times daily for 2 weeks.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.35993", 
+        "context": "match_5", 
+        "target_sentence": "Ter voorkoming van een recidief bij bipolaire stoornis: de aanbevolen startdosering is 10 mg per dag.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "The recommended starting dose is 1 mg three times daily for 2 weeks.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.29655", 
+        "context": "match_6", 
+        "target_sentence": "De aanbevolen startdosis is 50 mg twee maal daags.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "The recommended starting dose is 1 mg three times daily for 2 weeks.", 
+        "grammar_errors": "no information", 
+        "quality_score": "0.31210", 
+        "context": "match_7", 
+        "target_sentence": "Artrose De aanbevolen aanvangsdosering is 100 mg éénmaal daags.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "The recommended starting dose is 1 mg three times daily for 2 weeks.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.35427", 
+        "context": "match_8", 
+        "target_sentence": "De aanbevolen begindosis is één maal 15 mg of 30 mg per dag.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "The recommended starting dose is 1 mg three times daily for 2 weeks.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.32244", 
+        "context": "match_9", 
+        "target_sentence": "De aanbevolen aanvangsdosis is 25 mg tweemaal daags, en kan met of zonder voedsel worden ingenomen.", 
+        "qe_word": true
+    }
+]

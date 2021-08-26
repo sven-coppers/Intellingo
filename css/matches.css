@@ -1,0 +1,34 @@
+p.no_matches,
+p.loading_matches {
+    margin-top: 10px;
+    color: #666666;
+    font-style: italic;
+    text-align: center;
+}
+
+.matches {
+    position: relative;
+}
+
+.matches.focus .token {
+    color: #c6c0c4;
+}
+
+.matches.focus .corresponding {
+    color: #636367;
+}
+
+.matches.focus .target.highlight {
+    color: #68a2c6;
+}
+.matches.focus .target.highlight {
+    color: #0097d5;;
+}
+
+.hide_match_details .example_source_characteristics {
+    display: none;
+}
+
+.tm_meta {
+    margin-right: 10px;
+}

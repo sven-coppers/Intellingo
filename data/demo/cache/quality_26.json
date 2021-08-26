@@ -1,0 +1,230 @@
+[
+    {
+        "source_sentence": "The established individual dose should be maintained unless signs and symptoms of hypotension occur.", 
+        "grammar_errors": [
+            "0", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.15932", 
+        "context": "machine_translation", 
+        "target_sentence": "De vastgestelde individuele dosis dient te worden voortgezet tenzij tekenen en symptomen van hypotensie voordoen.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "The established individual dose should be maintained unless signs and symptoms of hypotension occur.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.43641", 
+        "context": "match_0", 
+        "target_sentence": "De startdosis moet gedurende ten minste een week worden aangehouden.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "The established individual dose should be maintained unless signs and symptoms of hypotension occur.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.93874", 
+        "context": "match_1", 
+        "target_sentence": "De laagste effectieve dosis dient te worden gehandhaafd.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "The established individual dose should be maintained unless signs and symptoms of hypotension occur.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.27378", 
+        "context": "match_2", 
+        "target_sentence": "Tijdens deze verhoging van de ALT-spiegel (SGPT) moeten om de 2 weken de volgende leverfunctietesten uitgevoerd worden:", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "The established individual dose should be maintained unless signs and symptoms of hypotension occur.", 
+        "grammar_errors": "no information", 
+        "quality_score": "0.23234", 
+        "context": "match_3", 
+        "target_sentence": "De behandeling moet voortgezet worden totdat de patiënt weer volledig gemobiliseerd is.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "The established individual dose should be maintained unless signs and symptoms of hypotension occur.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.24980", 
+        "context": "match_4", 
+        "target_sentence": "Tijdens deze periode moet de opname van fenylalanine uit de voeding op een constant niveau worden gehandhaafd.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "The established individual dose should be maintained unless signs and symptoms of hypotension occur.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "1"
+        ], 
+        "quality_score": "0.19490", 
+        "context": "match_5", 
+        "target_sentence": "Daarna moet de dosis op 900 mg worden gehandhaafd en ongeveer elke twee weken worden toegediend.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "The established individual dose should be maintained unless signs and symptoms of hypotension occur.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.15332", 
+        "context": "match_6", 
+        "target_sentence": "Behandeling met Zarzio moet worden voortgezet tot aan de laatste afname van de stamcellen.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "The established individual dose should be maintained unless signs and symptoms of hypotension occur.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.21930", 
+        "context": "match_7", 
+        "target_sentence": "Dosering met filgrastim dient te worden gehandhaafd tot aan de laatste leukaferese.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "The established individual dose should be maintained unless signs and symptoms of hypotension occur.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.15736", 
+        "context": "match_8", 
+        "target_sentence": "Behandeling met Filgrastim HEXAL moet worden voortgezet tot aan de laatste afname van de stamcellen.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "The established individual dose should be maintained unless signs and symptoms of hypotension occur.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "1.74518", 
+        "context": "match_9", 
+        "target_sentence": "Adequate vochttoediening dient gehandhaafd te worden.", 
+        "qe_word": true
+    }
+]

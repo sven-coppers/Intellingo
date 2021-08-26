@@ -1,0 +1,229 @@
+[
+    {
+        "source_sentence": "Doses above 1 mg riociguat were not investigated in this study.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.10044", 
+        "context": "machine_translation", 
+        "target_sentence": "Doses hoger dan 1 mg riociguat werden in deze studie niet onderzocht.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "Doses above 1 mg riociguat were not investigated in this study.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.23721", 
+        "context": "match_0", 
+        "target_sentence": "Gegevens over het melkzuur in het bloed werden in deze studie niet verzameld.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "Doses above 1 mg riociguat were not investigated in this study.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.27511", 
+        "context": "match_1", 
+        "target_sentence": "De immuunrespons op levend buiktyfusvaccin werd niet in dit onderzoek onderzocht.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "Doses above 1 mg riociguat were not investigated in this study.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.49944", 
+        "context": "match_2", 
+        "target_sentence": "In dit onderzoek waren er drie groepen.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "Doses above 1 mg riociguat were not investigated in this study.", 
+        "grammar_errors": "no information", 
+        "quality_score": "0.08640", 
+        "context": "match_3", 
+        "target_sentence": "tre Pediatrische patiënten Fondaparinux is niet onderzocht bij deze populatie.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "Doses above 1 mg riociguat were not investigated in this study.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.09282", 
+        "context": "match_4", 
+        "target_sentence": "Pediatrische patiënten - Fondaparinux is niet onderzocht bij deze populatie.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "Doses above 1 mg riociguat were not investigated in this study.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.11963", 
+        "context": "match_5", 
+        "target_sentence": "LITAK werd in deze studie niet met andere geneesmiddelen vergeleken.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "Doses above 1 mg riociguat were not investigated in this study.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.59027", 
+        "context": "match_6", 
+        "target_sentence": "Aloxi werd, in twee verschillende doses,", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "Doses above 1 mg riociguat were not investigated in this study.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.33114", 
+        "context": "match_7", 
+        "target_sentence": "Dagelijkse doses hoger dan 6 mg risperidon werden niet onderzocht bij patiënten met manische episodes.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "Doses above 1 mg riociguat were not investigated in this study.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.21812", 
+        "context": "match_8", 
+        "target_sentence": "Er werd geen verbetering in termen van fibrose waargenomen in deze studie.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "Doses above 1 mg riociguat were not investigated in this study.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.17326", 
+        "context": "match_9", 
+        "target_sentence": "De werkzaamheid van Azomyr drank is niet onderzocht in afzonderlijke pediatrische onderzoeken.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "Doses above 1 mg riociguat were not investigated in this study.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.17326", 
+        "context": "match_10", 
+        "target_sentence": "De werkzaamheid van Aerius drank is niet onderzocht in afzonderlijke pediatrische onderzoeken.", 
+        "qe_word": true
+    }
+]

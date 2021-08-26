@@ -1,0 +1,291 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>SCATE</title>
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" href="css/structure.css">
+    <link rel="stylesheet" href="css/progress.css">
+    <link rel="stylesheet" href="css/forms.css">
+    <link rel="stylesheet" href="css/tables.css">
+    <link rel="stylesheet" href="css/text.css">
+    <link rel="stylesheet" href="css/images.css">
+    <link rel="stylesheet" href="css/translator.css">
+    <link rel="stylesheet" href="css/menu.css">
+    <link rel="stylesheet" href="css/highlighting.css">
+    <link rel="stylesheet" href="css/synonyms.css">
+    <link rel="stylesheet" href="css/matches.css">
+    <link rel="stylesheet" href="css/config.css">
+    <link rel="stylesheet" href="css/user_translation.css">
+    <link rel="stylesheet" href="css/lib/resizable_layout.css" />
+</head>
+<body>
+<!-- Top navigation -->
+<div class="ui-layout-north ">
+    <div class="horizontal_button_container">
+        <img class="logo" src="img/logos/uhasselt_grey.png" />
+    </div>
+</div>
+<div class="hidden" id="config_panel">
+    <div id="config_panel_content">
+        <img src="img/fileclose.png" title="Close settings" id="close_settings" />
+        <h1>Settings</h1>
+        <div class="config_group">
+            <h2>General</h2>
+            <div class="config_item">
+                <input type="checkbox" class="config_checkbox" name="config_show_shortcuts" id="config_show_shortcuts" />
+                <label class="config_label" for="config_show_shortcuts">Show keyboard shortcuts</label>
+            </div>
+            <h2>Workflow</h2>
+            <div class="config_item">
+                <input type="checkbox" class="config_checkbox" name="config_workflow_forced" id="config_workflow_forced" />
+                <label class="config_label" for="config_workflow_forced">Force a specific workflow</label>
+            </div>
+            <div class="config_item indent">
+                <input type="checkbox" class="config_checkbox" name="config_workflow_translation_start_translating" id="config_workflow_translation_start_translating" />
+                <label class="config_label" for="config_workflow_translation_start_translating">Allow translators to edit a translation after confirming</label>
+            </div>
+            <div class="config_item indent">
+                <input type="checkbox" class="config_checkbox" name="config_workflow_translation_start_revising" id="config_workflow_translation_start_revising" />
+                <label class="config_label" for="config_workflow_translation_start_revising">Require a review for every sentence</label>
+            </div>
+            <div class="config_item indent">
+                <input type="checkbox" class="config_checkbox" name="config_workflow_revised_start_translating" id="config_workflow_revised_start_translating" />
+                <label class="config_label" for="config_workflow_revised_start_translating">Allow reviewers to send the sentence back to the translator</label>
+            </div>
+            <div class="config_item indent">
+                <input type="checkbox" class="config_checkbox" name="config_workflow_revised_start_revising" id="config_workflow_revised_start_revising" />
+                <label class="config_label" for="config_workflow_revised_start_revising">Allow reviewers to review a sentence multiple times</label>
+            </div>
+            <img class="workflow" id="0000" src="img/workflow/0000.jpg" />
+            <img class="workflow" id="0100" src="img/workflow/0100.jpg" />
+            <img class="workflow" id="0101" src="img/workflow/0101.jpg" />
+            <img class="workflow" id="0110" src="img/workflow/0110.jpg" />
+            <img class="workflow" id="0111" src="img/workflow/0111.jpg" />
+            <img class="workflow" id="1000" src="img/workflow/1000.jpg" />
+            <img class="workflow" id="1100" src="img/workflow/1100.jpg" />
+            <img class="workflow" id="1101" src="img/workflow/1101.jpg" />
+            <img class="workflow" id="1110" src="img/workflow/1110.jpg" />
+            <img class="workflow" id="1111" src="img/workflow/1111.jpg" />
+        </div>
+        <div class="config_group">
+            <h2>Filters</h2>
+            <div class="config_item">
+                <input type="checkbox" class="config_checkbox" name="config_filter_responsibilities" id="config_filter_responsibilities" />
+                <label class="config_label" for="config_filter_responsibilities">Show responsibilities filter</label>
+            </div>
+            <div class="config_item">
+                <input type="checkbox" class="config_checkbox" name="config_filter_progress" id="config_filter_progress" />
+                <label class="config_label" for="config_filter_progress">Show progress filter</label>
+            </div>
+            <div class="config_item">
+                <input type="checkbox" class="config_checkbox" name="config_filter_difficulty" id="config_filter_difficulty" />
+                <label class="config_label" for="config_filter_difficulty">Show difficulty filter</label>
+            </div>
+            <h2>Intelligibility</h2>
+            <div class="config_item">
+                <input type="checkbox" class="config_checkbox" name="config_intelligibility_sentence_difficulty" id="config_intelligibility_sentence_difficulty" />
+                <label class="config_label" for="config_intelligibility_sentence_difficulty">Show sentence difficulty</label>
+            </div>
+            <div class="config_item">
+                <input type="checkbox" class="config_checkbox" name="config_intelligibility_match_details" id="config_intelligibility_match_details" />
+                <label class="config_label" for="config_intelligibility_match_details">Show match metadata</label>
+            </div>
+            <div class="config_item">
+                <input type="checkbox" class="config_checkbox" name="config_intelligibility_alt_metrics" id="config_intelligibility_alt_metrics" />
+                <label class="config_label" for="config_intelligibility_alt_metrics">Show synonym metrics</label>
+            </div>
+            <div class="config_item">
+                <input type="checkbox" class="config_checkbox" name="config_intelligibility_mt_pretrans" id="config_intelligibility_mt_pretrans" />
+                <label class="config_label" for="config_intelligibility_mt_pretrans">Highlight pretranslations from TM in MT</label>
+            </div>
+            <div class="config_item">
+                <input type="checkbox" class="config_checkbox" name="config_intelligibility_highlight_examples" id="config_intelligibility_highlight_examples" />
+                <label class="config_label" for="config_intelligibility_highlight_examples">Highlight relationships</label>
+            </div>
+            <div class="config_item">
+                <input type="checkbox" class="config_checkbox" name="config_intelligibility_highlight_selection" id="config_intelligibility_highlight_selection" />
+                <label class="config_label" for="config_intelligibility_highlight_selection">Underline the selected word</label>
+            </div>
+            <div class="config_item">
+                <input type="checkbox" class="config_checkbox" name="config_intelligibility_scroll" id="config_intelligibility_scroll" />
+                <label class="config_label" for="config_intelligibility_scroll">Scroll automatically to the first example usages of a synonym</label>
+            </div>
+            <div class="config_item">
+                <input type="checkbox" class="config_checkbox" name="config_intelligibility_grammar_errors" id="config_intelligibility_grammar_errors" />
+                <label class="config_label" for="config_intelligibility_grammar_errors">Show grammar errors</label>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="progress_tooltip hidden">
+    <p class="user_name">Translator Name</p>
+    <table id="test">
+        <tbody>
+        <tr class="user_row user_selected" >
+            <td class="user_column"><img class="user_icon colored_icon" src="img/icon-docMenu-translate-rollover.png"><img
+                    class="user_icon grey_icon" src="img/icon-docMenu-translate-rollover.png"></td>
+            <td class="numerator_column" id="translation_finished">0</td>
+            <td class="denominator_column" id="translation_responsibilities">/ 64</td>
+            <td class="percent_column" id="translation_progress">0%</td>
+        </tr>
+        <tr class="user_row user_selected">
+            <td class="user_column"><img class="user_icon colored_icon" src="img/icon-header-verbeterd-1.png"><img
+                    class="user_icon grey_icon" src="img/icon-header-verbeterd-1.png"></td>
+            <td class="numerator_column" id="revision_finished">0</td>
+            <td class="denominator_column" id="revision_responsibilities">/ 64</td>
+            <td class="percent_column" id="revision_progress">0%</td>
+        </tr>
+        </tbody>
+    </table>
+</div>
+<div class="outer-center">
+    <div class="inner-center">
+        <div class="segment_translator_boxes"></div>
+        <div class="loading"><p>Loading...</p></div>
+        <p class="no_segments" style="display: none;">All segments are hidden by the filters.</p>
+    </div>
+    <div class="ui-layout-north tip_container">
+        <div class="tips">
+            <a href="#" class="img_link" id="shortcut_info"></a>
+            <p><span class="">ENTER</span> : accept next suggested word</p>
+            <p><span class="">SHIFT-ARROWS</span> : navigate in alternatives</p>
+            <p><span class="">ALT-M</span> : copy machine translation</p>
+            <p><span class="">CTRL-ENTER</span> : confirm translation</p>
+            <p><span class="">ALT-ARROWS</span> : navigate in sentences</p>
+        </div>
+    </div>
+    <div class="ui-layout-south related_segments_container"></div>
+    <div class="outer-west">
+        <!-- Progress bar -->
+        <div class="progress_container">
+            <div class="progress_bar">
+                <div class="task_header">
+                    <img class="translate_header" src="img/icon-docMenu-translate-rollover.png" title="Translation progress" />
+                    <img class="revise_header" src="img/icon-header-verbeterd-1.png" title="Review progress" />
+                </div>
+                <div class="task_container">
+                </div>
+                <div class="hidden" id="tooltip">
+                    <h1 id="tooltip_id">1</h1>
+                </div>
+            </div>
+        </div>
+        <a href="#" class="img_link disabled" id="zoom_in" title="Zoom in"></a>
+        <a href="#" class="img_link" id="zoom_out" title="Zoom out"></a>
+    </div>
+</div>
+
+<!-- Hidden processing div when uploading files -->
+<div class="overlay">
+    <div id="processing-spinner"></div>
+    <p>Processing...</p>
+    <p class="large">This may take up to a minute</p>
+</div>
+
+</div>
+</body>
+<!-- Libraries -->
+<script src="js/lib/d3.min.js"></script>
+<script src="js/lib/jquery-1.9.0.js"></script>
+<script src="js/lib/jquery-ui-1.9.2.js"></script>
+<script src="js/lib/jquery.layout-1.4.4.js"></script>
+<script src="js/lib/jquery.hotkeys.js"></script>
+
+<!-- Helpers -->
+<script src="js/helpers/strings.js"></script>
+<script src="js/helpers/arrays.js"></script>
+<script src="js/helpers/navigation.js"></script>
+
+<!-- Data Raw -->
+<script src="data/demo/staff.js"></script>
+
+<!-- Models -->
+<script src="js/model/glossary/context_glossary.js"></script>
+<script src="js/model/glossary/context_glossary_builder.js"></script>
+<script src="js/model/glossary/context_glossary_manager.js"></script>
+<script src="js/model/glossary/occurrence.js"></script>
+<script src="js/model/glossary/occurrence_mt.js"></script>
+<script src="js/model/glossary/occurrence_tm.js"></script>
+<script src="js/model/glossary/term.js"></script>
+<script src="js/model/glossary/term_context.js"></script>
+<script src="js/model/hybrid/hybrid_service.js"></script>
+<script src="js/model/machine_translations/machine_translation.js"></script>
+<script src="js/model/machine_translations/machine_translation_cache.js"></script>
+<script src="js/model/machine_translations/machine_translator.js"></script>
+<script src="js/model/quality/quality_service.js"></script>
+<script src="js/model/matches/match_aggregator.js"></script>
+<script src="js/model/matches/match_cache.js"></script>
+<script src="js/model/matches/match.js"></script>
+<script src="js/model/matches/local/local_match.js"></script>
+<script src="js/model/matches/local/local_matcher.js"></script>
+<script src="js/model/matches/tm/translation_memory.js"></script>
+<script src="js/model/matches/tm/levenshtein/levenshtein_match.js"></script>
+<script src="js/model/matches/tm/sharedsubparts/sharedsubparts_match.js"></script>
+<script src="js/model/matches/tm/sharedsubparts/syntax_node.js"></script>
+<script src="js/model/matches/tm/sharedsubparts/syntax_tree.js"></script>
+<script src="js/model/progress/progress.js"></script>
+<script src="js/model/progress/progress_stats.js"></script>
+<script src="js/model/term_base/term_base.js"></script>
+<script src="js/model/user/staff_data.js"></script>
+<script src="js/model/util/config.js"></script>
+<script src="js/model/util/filters.js"></script>
+<script src="js/model/util/logger.js"></script>
+<script src="js/model/translation_tools.js"></script>
+
+<!-- Observables -->
+<script src="js/observable/observable_config.js"></script>
+<script src="js/observable/observable_translation_tools.js"></script>
+<script src="js/observable/observable_filter.js"></script>
+<script src="js/observable/observable_progress.js"></script>
+<script src="js/observable/observable_context_glossary.js"></script>
+<script src="js/observable/observable_tm_cache.js"></script>
+<script src="js/observable/observable_mt_cache.js"></script>
+
+<!-- Views -->
+<script src="js/view/progress/bar.js"></script>
+<script src="js/view/translation/segment_view.js"></script>
+<script src="js/view/translation/segment_list_view.js"></script>
+<script src="js/view/translation/segment/user_translation_view.js"></script>
+<script src="js/view/translation/segment/suggestion_view.js"></script>
+<script src="js/view/translation/segment/highlighting.js"></script>
+<script src="js/view/translation/segment/synonym_view.js"></script>
+<script src="js/view/translation/segment/auto_complete.js"></script>
+<script src="js/view/translation/segment/feed_forward.js"></script>
+<script src="js/view/translation/segment/navigation.js"></script>
+<script src="js/view/translation/segment/match_view.js"></script>
+<script src="js/view/config_view.js"></script>
+<script src="js/view/main_view.js"></script>
+
+<!-- Controllers -->
+<script src="js/controller/main_controller.js"></script>
+<script src="js/controller/config_controller.js"></script>
+<script src="js/controller/text_controller.js"></script>
+<script src="js/controller/progress_bar_controller.js"></script>
+<script src="js/controller/segment_controller.js"></script>
+<script src="js/controller/segment_list_controller.js"></script>
+<script src="js/controller/segment/highlight_controller.js"></script>
+<script src="js/controller/segment/match_controller.js"></script>
+<script src="js/controller/segment/suggestion_controller.js"></script>
+<script src="js/controller/segment/synonym_controller.js"></script>
+<script src="js/controller/segment/user_translation_controller.js"></script>
+<script src="js/controller/segment/auto_complete_controller.js"></script>
+<script src="js/controller/segment/feed_forward_controller.js"></script>
+<script src="js/controller/segment/navigation_controller.js"></script>
+<script type="application/javascript">
+    var logger = new Logger();
+    var config = new Config(
+        "intelligible",
+        "demo",
+        "default",
+        "default",
+        true,
+        "",
+        true    );
+
+    $(document).ready(function() {
+        new MainController();
+    });
+</script>
+</html>

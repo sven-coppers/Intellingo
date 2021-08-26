@@ -1,0 +1,300 @@
+.task_header {
+    margin-left: 75px;
+    background-color: #ffffff;
+    width: 58px;
+    cursor: pointer;
+}
+
+.segment {
+    margin-left: 75px;
+    background-color: #ffffff;
+    width: 58px;
+}
+
+.segment_translation,
+.segment_revision {
+    background-color: #e7e7e8;
+    width: 25px;
+    height: 100%;
+    display: inline-block;
+    position: relative;
+    cursor: pointer;
+}
+
+.segment_translation {
+    float: left;
+}
+
+.segment_revision {
+    float: right;
+}
+
+/* Difficulty */
+.segment_difficulty {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    z-index: 1;
+}
+
+.segment_difficulty.difficulty_easy {
+    background-color: rgba(140, 198, 63, 0.51);
+}
+
+.segment_difficulty.difficulty_moderate {
+    background-color: rgba(252, 179, 21, 0.5);
+}
+
+.segment_difficulty.difficulty_hard {
+    background-color: rgba(239, 64, 54, 0.5);
+}
+
+/* Progress */
+.segment_progress {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    z-index: 2;
+}
+
+.segment_progress.ready {
+    background-color: rgba(0, 0, 0, 0.25);
+}
+
+/* Responsibility */
+.segment_responsibility {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    z-index: 1;
+}
+
+.segment_responsibility.user0 {
+    background-color: rgba(106, 159, 139, 0.5);
+}
+
+.segment_responsibility.user1 {
+    background-color: rgba(82, 118, 186, 0.5);
+}
+
+.segment_responsibility.user2 {
+    background-color: rgba(146, 88, 164, 0.5);
+}
+
+.segment_responsibility.user3 {
+    background-color: rgba(176, 172, 100, 0.5);
+}
+
+.segment_responsibility.user4 {
+    background-color: rgba(161, 101, 88, 0.5);
+}
+
+/* Hovering */
+.segment_hover {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    z-index: 4;
+}
+
+.segment_hover.active {
+    background-color: rgba(0, 0, 0, 0.25);
+}
+
+/* When a segment is hidden */
+
+.segment.hidden {
+    cursor: default;
+    visibility: visible;
+}
+
+.segment_empty {
+    display: none;
+}
+
+.segment_empty_filler {
+    background-color: #fafafa;
+    height: 100%;
+    margin-left: 1px;
+    margin-right: 1px;
+    width: auto;
+}
+
+/* When filters are disabled */
+.segment.hidden .segment_responsibility,
+.segment.hidden .segment_difficulty,
+.segment.hidden .segment_progress,
+.segment_responsibility.hidden,
+.segment_difficulty.hidden,
+.segment_progress.hidden {
+    display: none;
+}
+
+.segment.hidden .segment_empty {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    background-color: #e7e7e8;
+    display: inline-block;
+    cursor: default;
+}
+
+.segment.hidden:first-child .segment_empty {
+    border-top: 1px solid #e7e7e8;
+}
+
+.segment.hidden .segment_translation,
+.segment.hidden .segment_revision {
+    cursor: default;
+}
+
+.working_line, .related_line, .active_line {
+    width: 6px;
+    height: 2px;
+    background-color: #9b9b9b;
+    position: relative;
+}
+
+.segment_translation .working_line, .segment_translation .related_line, .segment_translation .active_line {
+    margin: auto;
+    position: absolute;
+    bottom: 0;
+    right: auto;
+    top: 0;
+    left: -9px;
+}
+
+.revise_task .working_line, .revise_task .related_line, .revise_task .active_line {
+    margin: auto;
+    position: absolute;
+    left: 28px;
+    bottom: 0;
+    right: auto;
+    top: 0;
+}
+
+.related_line, .related_icon {
+    display: none;
+}
+
+.related_view .related_line, .related_view .related_icon  {
+    display: block;
+}
+
+#tooltip {
+    position: absolute;
+    background-color: #ffffff;
+    border: 1px solid #bcbdc0;
+    padding: 2px;
+    border-radius: 1px;
+    z-index: 3;
+    color: #bcbdc0;
+}
+
+#selected_tooltip {
+    background-color: #ffffff;
+    border: 1px solid #58585a;
+    padding: 2px;
+    border-radius: 1px;
+    z-index: 1;
+    width: 50px;
+    color: #58585a;
+}
+
+#tooltip, #selected_tooltip {
+    height: 18px;
+    font-weight: bold;
+    font-size: 14px;
+    width: 50px;
+    padding: 2px;
+}
+
+#tooltip h1, #selected_tooltip h1 {
+    margin: 2px;
+    padding: 0px;
+    vertical-align: middle;
+    text-align: center;
+}
+
+#tooltip img, #selected_tooltip img {
+    vertical-align: middle;
+    height: 18px;
+    display: none;
+}
+
+.segment_translation #selected_tooltip {
+    margin: auto;
+    position: absolute;
+    left: -65px;
+    top: 0;
+    bottom: 0;
+    right: auto;
+}
+
+a.img_link#zoom_in {
+    background: #ffffff url('../img/icon-zijbalk-plus-0.png');
+    background-repeat: no-repeat;
+    background-size: 25px 25px;
+    background-position: center;
+}
+
+a.img_link.disabled#zoom_in {
+    background: #E4E5E0 url('../img/icon-zijbalk-plus-1.png');
+    background-repeat: no-repeat;
+    background-size: 25px 25px;
+    background-position: center;
+}
+
+a.img_link#zoom_out {
+    background: #ffffff url('../img/icon-zijbalk-min-0.png');
+    background-repeat: no-repeat;
+    background-size: 25px 25px;
+    background-position: center;
+}
+
+a.img_link.disabled#zoom_out {
+    background: #f7f8f3 url('../img/icon-zijbalk-min-1.png');
+    background-repeat: no-repeat;
+    background-size: 25px 25px;
+    background-position: center;
+}
+
+a#zoom_out, a#zoom_in {
+    border: 0px;
+    border-top: 1px solid #aaaaaa;
+    border-right: 1px solid #aaaaaa;
+
+    position: absolute;
+    z-index: 2;
+    bottom: 0px;
+    width: 25px;
+    height: 25px;
+}
+
+a#zoom_out {
+    left: 30px;
+}
+
+a#zoom_in {
+
+}
+
+.no_revision .segment {
+    margin-left: 88px;
+}
+
+.no_revision .segment_translation {
+    width: 40px
+}
+
+.no_revision .segment_revision {
+    display: none;
+}
+
+.no_revision .revise_header {
+    display: none;
+}
+
+.no_revision .translate_header {
+    margin-left: 25px;
+}

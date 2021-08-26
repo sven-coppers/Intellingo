@@ -1,0 +1,91 @@
+html, body {
+    height: 100%;
+}
+
+div {
+
+}
+
+div.clearfix {
+    clear: both;
+}
+
+div.content_wrapper {
+    position: absolute;
+    top: 41px;
+    bottom: 0px;
+    width: 100%;
+}
+
+div.sidebar {
+    width: 100%;
+    border-right: 1px solid #c9cacb;
+    background-color: #e0e0e0;
+    float: left;
+    display: table;
+    height: 100%;
+}
+
+
+div.progress_container {
+    background-color: #ffffff;
+    overflow-y: auto;
+
+    width: 100%;
+
+    position: absolute;
+    top: 0px;
+    /*bottom: 271px;*/
+    height: 100%;
+}
+
+div.task_container {
+    position: absolute;
+    top: 25px;
+
+    bottom: 0px;
+}
+
+div.stats_container {
+    background-color: #ffffff;
+    height: 271px;
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+}
+
+div.stats_segment {
+    border-top: 1px solid #c9cacb;
+    padding: 12px;
+}
+
+.hidden {
+    visibility: hidden;
+}
+
+div.stats_button_container {
+    background-color: #c9cacb;
+    border-top: 0px solid #d6d7d8;
+}
+
+div.related_segments_container {
+    border-left: 1px solid #d6d7d8;
+    overflow-y: scroll;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+
+}
+
+div.loading {
+    width: 100%;
+    margin-top: 200px;
+    z-index: 100;
+}
+
+div.loading p {
+    text-align: center;
+    font-size: 30px;
+    color: #a3a3a6;
+}
+

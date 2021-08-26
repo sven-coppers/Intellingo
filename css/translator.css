@@ -1,0 +1,338 @@
+/**
+ * Segment - All
+ */
+p.segment_collapsed {
+    line-height: 150%;
+    margin-bottom: 15px;
+    cursor: pointer;
+}
+
+div.segment_translator_boxes {
+    max-height: 100%;
+    overflow-y: auto;
+    margin-bottom: auto;
+    margin-top: auto;
+    position: absolute;
+    width: 100%;
+}
+
+div.segment_translator_box {
+    background-color: #ffffff;
+    display: flex;
+}
+
+div.segment_translator_box_separator {
+    /*padding-top: 5px; */
+    /*padding-bottom: 5px; */
+    width: 100%;
+}
+
+div.segment_translator_box_separator.first_in_unit {
+    margin-top: 40px;
+}
+
+div.segment_translator_box_separator.last_in_unit {
+    /*padding-bottom: 25px; */
+}
+
+div.segment_translator_box_position {
+    padding-left: 80px;
+    padding-right: 80px;
+}
+
+div.related_segments_container div.segment_translator_box_position {
+    background-color: #f6f5ef;
+}
+
+div.segment_translator_box_separator:not(.active) span {
+    border: none;
+    background-color: white;
+    margin: 0px;
+    padding: 0px;
+}
+
+div.translation_target_container {
+    margin: auto;
+    margin-bottom: 10px;
+    padding: 15px;
+    border: 1px dashed #999999;
+    position: relative;
+}
+
+div.prediction_container {
+    padding-bottom: 15px;
+    width: 100%;
+    position: relative;
+}
+
+img.use_best_suggestion {
+    width: 24px;
+    height: 24px;
+    cursor: pointer;
+    position: absolute;
+    top: -16px;
+    left: 25px;
+    background-color: #ffffff;
+}
+
+div.segment_translator {
+    flex-grow: 1;
+}
+
+div.segment_icon_column {
+    min-width: 100px;
+}
+
+div.segment_buttons {
+    width: 30px;
+    padding-left: 20px;
+}
+
+img.segment_action {
+    width: 30px;
+    height: 30px;
+    margin-bottom: 5px;
+}
+
+img.segment_action.hidden {
+    display: none;
+}
+
+div.segment_ID_container {
+    border: 1px solid #BCBEC0;
+    height: 20px;
+    width: 80px;
+    padding: 0px;
+    overflow: hidden;
+}
+
+p.segment_ID {
+    margin-left: 3px;
+    margin-right: 3px;
+    margin-top: 2px;
+    padding: 0px;
+    text-align: right;
+    color: #BCBEC0;
+}
+
+.segment_icon {
+    width: 24px;
+    height: 24px;
+    float: left;
+    position: relative;
+    top: -2px;
+    border-right: 1px solid #BCBEC0;
+}
+
+.hide_difficulty .segment_icon {
+    display: none;
+}
+
+p.translation_source {
+    margin-bottom: 15px;
+    line-height: 150%;
+    color: #000000;
+}
+
+p.translation_source .token {
+    color: #000000;
+}
+
+div.prediction_splitter {
+    width: 100%;
+}
+
+p.best_prediction {
+    background-color: #fbfaf7;
+    color: #555555;
+    font-style: italic;
+    line-height: 150%;
+    width: auto;
+    padding: 15px;
+}
+
+p.best_prediction .token {
+   /* color: #000000; */
+}
+
+p.mt_meta {
+    float: right;
+    width: 100px;
+    padding-top: 18px;
+    padding-right: 15px;
+    text-align: right;
+    vertical-align: middle;
+}
+
+p.mt_meta span.quality_score {
+    font-size: 18px;
+    color: #b1b1b4;
+    margin-right: 10px;
+    vertical-align: top;
+}
+
+div.related_segments_container p.translation_target {
+
+    color: #555555;
+    margin-top: 5px;
+    line-height: 150%;
+}
+
+div.related_segments_container div.segment_translator_box_separator {
+    padding-bottom: 8px;
+    padding-top: 8px;
+    border-bottom: 1px dashed #c9c9cc;
+}
+
+div.related_segments_container div.segment_translator_box_separator:last-child {
+    border-bottom-width: 0px;
+}
+
+/**
+ * Segment - Active
+ */
+div.segment_translator_boxes div.segment_translator_box_separator:not(.active) div.segment_expanded_view {
+    display: none;
+}
+
+div.segment_translator_boxes div.segment_translator_box_separator.active div.segment_collapsed_view {
+    display: none;
+}
+
+div.segment_translator_boxes div.segment_translator_box_separator.revised.active p.suggestions,
+div.segment_translator_boxes div.segment_translator_box_separator.revised.active div.prediction_container {
+    display: none;
+}
+
+div.segment_translator_box_separator:not(.active) p.segment_collapsed {
+   /* color: #818285; */
+}
+
+/**
+ * Segment - Initialised
+ */
+
+img.segment_action {
+    cursor: pointer;
+}
+
+div.segment_translator_box_separator.revised:not(.active) p.segment_collapsed {
+    /* color: #c9cacd; */
+}
+
+p.segment_collapsed.disabled {
+    color: #a1a2a5;
+    cursor: default;
+}
+
+
+div.segment_translator_box_separator.revised div.translation_target_container {
+    border: 1px dashed #818285;
+}
+
+div.segment_translator_box_separator.revised textarea {
+    color: #818285;
+}
+
+div.segment_translator_box_separator.revised p {
+   /* color: #818285; */
+}
+
+/**
+ * Segment - Related
+ */
+div.related_segments_container p:last-child {
+    margin-bottom: 0px;
+}
+
+p.no_related_segments {
+    display: block;
+    width: 100%;
+    text-align: center;
+    font-style: italic;
+    color: #a3a3a6;
+}
+
+p.loading_termbase {
+    display: block;
+    width: 100%;
+    text-align: center;
+    font-style: italic;
+    color: #a3a3a6;
+    margin-top: 10px;
+}
+
+/**
+ * Suggestions
+ */
+
+p.suggestions {
+    margin-bottom: 10px;
+}
+
+div.suggestion_group {
+    display: inline-block;
+    margin-right: 10px;
+    position: relative;
+    height: 22px;
+    background-color: #ffffff;
+}
+
+div.suggestion_group div.suggestion_alternatives {
+    background-color: #ffffff;
+    display: none;
+    position: absolute;
+    top: 22px;
+    left: 0;
+    z-index: 1;
+}
+
+span.suggestion {
+
+    margin-right: 10px;
+    cursor: pointer;
+    color: #a3a3a6;
+    display: block;
+    margin-bottom: 7px;
+    padding-left: 35px;
+}
+
+div.suggestion_alternatives {
+    padding-bottom: 5px;
+    display: inline-block;
+    background-color: #ffffff;
+}
+
+div.suggestion_alternatives span.suggestion {
+    white-space:nowrap;
+}
+
+span.suggestion.selected {
+    color: #000000;
+    text-decoration: underline;
+}
+
+span.suggestion:hover {
+    color: #000000;
+}
+
+/*.suggestion_group:hover .suggestion_alternatives {
+    border: 1px solid #a3a3a6;
+    border-width: 0px 1px 1px 1px;
+}*/
+
+.no_segments {
+    width: 100%;
+    text-align: center;
+    margin-top: 10px;
+    font-style: italic;
+    color: #a3a3a6;
+}
+
+.mt_meta .hidden {
+    display: none;
+}
+
+.mt_meta .spinner {
+    margin-right: 15px;
+}

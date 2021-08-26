@@ -1,0 +1,108 @@
+img.user_icon {
+    width: 20px;
+}
+
+img.user_icon_inline {
+    width: 14px;
+    vertical-align: text-top;
+    margin-left: 2px;
+    margin-right: 5px;
+}
+
+img.user_icon_inline:last-child {
+    margin-right: 0px;
+}
+
+#tooltip img {
+    width: 18px;
+    height: 18px;
+    vertical-align: bottom;
+}
+
+.user_translating_icon {
+    margin: auto;
+    position: absolute;
+    left: -30px;
+    height: 20px;
+    top: 0;
+    bottom: 0;
+    right: auto;
+}
+
+.user_revising_icon {
+    margin: auto;
+    position: absolute;
+    left: 35px;
+    height: 20px;
+    top: 0;
+    bottom: 0;
+    right: auto;
+}
+
+.translate_task img.related_icon {
+    margin: auto;
+    position: absolute;
+    left: -30px;
+    height: 20px;
+    top: 0;
+    bottom: 0;
+    right: auto;
+}
+
+.revise_task img.related_icon {
+    margin: auto;
+    position: absolute;
+    left: 35px;
+    height: 20px;
+    top: 0;
+    bottom: 0;
+    right: auto;
+}
+
+.translate_header {
+    width: 20px;
+    height: 20px;
+    cursor: default;
+    margin-left: 4px;
+    margin-top: 2px;
+}
+
+.revise_header {
+    width: 20px;
+    height: 20px;
+    float: right;
+    margin-right: 2px;
+    margin-top: 2px;
+    cursor: default;
+}
+
+.stats_header_icon {
+    width: 20px;
+    height: 20px;
+    vertical-align: text-top;
+}
+
+.spinner {
+    width: 20px;
+    vertical-align: text-bottom;
+}
+
+.logo {
+    float: right;
+    height: 30px;
+}
+
+.horizontal_button_container .logo {
+    margin-right: 5px;
+    margin-top: 5px;
+}
+
+.mt_icon {
+    width: 18px;
+    height: 18px;
+}
+
+.mt_quality {
+    width: 18px;
+    height: 18px;
+}

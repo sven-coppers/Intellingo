@@ -1,0 +1,41 @@
+[
+    {
+        "source_sentence": "Tablets can generally be taken with or without food.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.32882", 
+        "context": "machine_translation", 
+        "target_sentence": "Over het algemeen kunt de tabletten met of zonder voedsel worden ingenomen.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "Tablets can generally be taken with or without food.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.22585", 
+        "context": "match_0", 
+        "target_sentence": "U kunt de tabletten met of zonder eten innemen.", 
+        "qe_word": true
+    }
+]

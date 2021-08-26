@@ -1,0 +1,215 @@
+[
+    {
+        "source_sentence": "Each film-coated tablet contains 37.8 mg lactose (as monohydrate), see section 4.4.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "1", 
+            "1", 
+            "1", 
+            "1"
+        ], 
+        "quality_score": "0.13559", 
+        "context": "machine_translation", 
+        "target_sentence": "Elke filmomhulde tablet bevat 37,8 mg lactose (als monohydraat), (zie rubriek 4.4).", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "Each film-coated tablet contains 37.8 mg lactose (as monohydrate), see section 4.4.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.44136", 
+        "context": "match_0", 
+        "target_sentence": "Elke filmomhulde tablet bevat 20 mg dasatinib (als monohydraat).", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "Each film-coated tablet contains 37.8 mg lactose (as monohydrate), see section 4.4.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.44139", 
+        "context": "match_1", 
+        "target_sentence": "Elke filmomhulde tablet bevat 50 mg dasatinib (als monohydraat).", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "Each film-coated tablet contains 37.8 mg lactose (as monohydrate), see section 4.4.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.43053", 
+        "context": "match_2", 
+        "target_sentence": "Elke filmomhulde tablet bevat 70 mg dasatinib (als monohydraat).", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "Each film-coated tablet contains 37.8 mg lactose (as monohydrate), see section 4.4.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.46344", 
+        "context": "match_3", 
+        "target_sentence": "Elke filmomhulde tablet bevat 100 mg dasatinib (als monohydraat).", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "Each film-coated tablet contains 37.8 mg lactose (as monohydrate), see section 4.4.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.43743", 
+        "context": "match_4", 
+        "target_sentence": "Elk filmomhulde tablet bevat 125 mg bosentan (als monohydraat).", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "Each film-coated tablet contains 37.8 mg lactose (as monohydrate), see section 4.4.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.58790", 
+        "context": "match_5", 
+        "target_sentence": "Een filmomhulde tablet bevat 125 mg bosentan (als monohydraat)", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "Each film-coated tablet contains 37.8 mg lactose (as monohydrate), see section 4.4.", 
+        "grammar_errors": [
+            "0", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.21293", 
+        "context": "match_6", 
+        "target_sentence": "Elke Remeron 15 mg filmomhulde tablet bevat 109 mg lactose (als monohydraat).", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "Each film-coated tablet contains 37.8 mg lactose (as monohydrate), see section 4.4.", 
+        "grammar_errors": [
+            "0", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.21145", 
+        "context": "match_7", 
+        "target_sentence": "Elke Remeron 30 mg filmomhulde tablet bevat 217 mg lactose (als monohydraat).", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "Each film-coated tablet contains 37.8 mg lactose (as monohydrate), see section 4.4.", 
+        "grammar_errors": [
+            "0", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.21137", 
+        "context": "match_8", 
+        "target_sentence": "Elke Remeron 45 mg filmomhulde tablet bevat 325 mg lactose (als monohydraat).", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "Each film-coated tablet contains 37.8 mg lactose (as monohydrate), see section 4.4.", 
+        "grammar_errors": [
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "1"
+        ], 
+        "quality_score": "0.26563", 
+        "context": "match_9", 
+        "target_sentence": "(2 filmomhulde tabletten) (4 filmomhulde tabletten) (8 filmomhulde tabletten) (12 filmomhulde tabletten)", 
+        "qe_word": true
+    }
+]

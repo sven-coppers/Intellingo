@@ -1,0 +1,243 @@
+[
+    {
+        "source_sentence": "These medicinal products should be used with caution.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.14107", 
+        "context": "machine_translation", 
+        "target_sentence": "Deze geneesmiddelen moeten met voorzichtigheid worden gebruikt.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "These medicinal products should be used with caution.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "1", 
+            "1", 
+            "1", 
+            "1"
+        ], 
+        "quality_score": "0.16052", 
+        "context": "match_0", 
+        "target_sentence": "Deze combinaties moeten met voorzichtigheid gebruikt worden.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "These medicinal products should be used with caution.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.16196", 
+        "context": "match_1", 
+        "target_sentence": "Cytotoxische geneesmiddelen moeten met de nodige voorzichtigheid worden gehanteerd.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "These medicinal products should be used with caution.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.14662", 
+        "context": "match_2", 
+        "target_sentence": "Daarom moet deze combinatie met de nodige voorzichtigheid worden gebruikt.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "These medicinal products should be used with caution.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.07978", 
+        "context": "match_3", 
+        "target_sentence": "Men dient daarom voorzichtig te zijn met het gebruik ervan.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "These medicinal products should be used with caution.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.03667", 
+        "context": "match_4", 
+        "target_sentence": "De combinatie dient met voorzichtigheid te worden gebruikt.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "These medicinal products should be used with caution.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.03667", 
+        "context": "match_5", 
+        "target_sentence": "Deze combinatie dient met voorzichtigheid te worden gebruikt.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "These medicinal products should be used with caution.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "1", 
+            "1", 
+            "1", 
+            "1"
+        ], 
+        "quality_score": "0.30824", 
+        "context": "match_6", 
+        "target_sentence": "De combinatie van telbivudine met deze geneesmiddelen moet met voorzichtigheid gebruikt worden.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "These medicinal products should be used with caution.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "1.22256", 
+        "context": "match_7", 
+        "target_sentence": "ZIMULTI dient met mi", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "These medicinal products should be used with caution.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.18594", 
+        "context": "match_8", 
+        "target_sentence": "Daarom dient het met voorzichtigheid te worden gebruikt bij deze patiënten.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "These medicinal products should be used with caution.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "1", 
+            "1", 
+            "1", 
+            "1"
+        ], 
+        "quality_score": "0.02439", 
+        "context": "match_9", 
+        "target_sentence": "RISPERDAL CONSTA dient met voorzichtigheid te worden gebruikt bij ouderen.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "These medicinal products should be used with caution.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0"
+        ], 
+        "quality_score": "0.29662", 
+        "context": "match_10", 
+        "target_sentence": "Daarom is voorzichtigheid geboden wanneer fluoxetine samen met andere geneesmiddelen wordt gebruikt.", 
+        "qe_word": true
+    }, 
+    {
+        "source_sentence": "These medicinal products should be used with caution.", 
+        "grammar_errors": [
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "0", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "1", 
+            "0"
+        ], 
+        "quality_score": "0.69053", 
+        "context": "match_11", 
+        "target_sentence": "Daarom moet bij het gebruik van dit geneesmiddel bij deze patiënten de benodigde zorgvuldigheid worden betracht.", 
+        "qe_word": true
+    }
+]
